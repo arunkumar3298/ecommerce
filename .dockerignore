@@ -1,0 +1,13 @@
+.git
+.gitignore
+.idea
+*.iml
+*.iws
+*.ipr
+logs/
+*.log
+.DS_Store
+Thumbs.db
+README.md
+docker-compose.yml
+.dockerignore
